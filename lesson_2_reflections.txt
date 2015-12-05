@@ -3,8 +3,13 @@ A).git is created, which is to track my commit history.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-A) At staging area we can specify files to be commited.
+A) At staging area we can specify files to be committed.
 
 How can you use the staging area to make sure you have one commit per logical change?
 A) After inserting a logical change to the file, we can add it to the staging area to
 commit.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+A) Branches are helpful when, for example, we want to create a different version
+of the program, or do some experiments.
