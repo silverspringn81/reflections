@@ -16,3 +16,7 @@ of the program, or do some experiments.
 
 How do the diagrams help you visualize the branch structure?
 A) It shows the structure of many branches visually.
+
+What is the result of merging two branches together? Why do we represent it in the
+diagram the way we do?
+A) The brach merged to master branch was deleted but the commits were still trackable.
