@@ -19,4 +19,9 @@ A) It shows the structure of many branches visually.
 
 What is the result of merging two branches together? Why do we represent it in the
 diagram the way we do?
-A) The brach merged to master branch was deleted but the commits were still trackable.
+A) The breach merged to master branch was deleted but the commits were still trackable.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+A) Git's allows us to detect and work on efficiently the conflicts. Automatic merging is
+very efficient but may sometimes cause an intended integration of codes, which we can
+avoid when doing manually.
