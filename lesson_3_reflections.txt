@@ -14,3 +14,8 @@ or different version of programs.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 A) We can work offline if we do so.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be
+harder?
+A) There are some other social coding services. Without Git or GitHub, it would be very hard to
+collaborate efficiently since version control gets complicated.
